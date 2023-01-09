@@ -1,3 +1,3 @@
-# Java Projects (Under Construction)
+# Java Projects
 
-Examples of common Data structure implementation I created while studying Java program. 
+Examples of common Data structure implementation I created while studying Java programming. See java-projects/math for examples of java programming for various math functions. 
